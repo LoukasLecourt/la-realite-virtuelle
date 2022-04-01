@@ -1,0 +1,46 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+body {
+    display: -webkit-flex;
+    -webkit-box-flex: row;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#menu {
+    background-color: rgb(33,33,33);
+    color: white;
+    padding: 4%;
+    padding-right: 5%;
+    width: 25%;
+    height: auto;
+    -webkit-flex: 1;
+    -webkit-order: 1;
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu a {
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#menu h2 {
+    width: 250px;
+}
+
+#menu h3 {
+    font-size: 12px;
+}
+
+#others {
+    -webkit-flex: 3;
+    -webkit-order: 2;
+}
