@@ -3,3 +3,18 @@
     background-image: url('../images/background_hometitle.jpg');
 }
 
+.auteurs {
+    padding: 2%;
+}
+
+.introduction {
+    padding: 4%;
+    padding-top: 3%;
+    padding-right: 8%;
+}
+
+.introduction h4 {
+    margin-top: 4%;
+    margin-bottom: 4%;
+    text-align: center;
+}

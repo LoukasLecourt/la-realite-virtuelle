@@ -1,0 +1,26 @@
+#title {
+    background-size: 75% 100%;
+    background-image: url('../images/background_historytitle.jpg');
+}
+
+.introduction {
+    padding: 4%;
+    padding-top: 3%;
+    padding-right: 8%;
+}
+
+.introduction2 {
+    padding: 4%;
+    padding-top: 3%;
+    padding-right: 8%;
+}
+
+.introduction2 h4 {
+    color: white;
+    background-color: rgb(30,108,147);
+    text-align: center;
+}
+
+.end {
+    text-align: center;
+}
