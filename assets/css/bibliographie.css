@@ -1,0 +1,18 @@
+#title {
+    background-image: url('../images/book.jpg');
+}
+
+table {
+    border-color: rgb(30,108,147);
+    margin: auto;
+    margin-top: 5%;
+}
+
+th {
+    color: white;
+    background-color: rgb(30,108,147);
+}
+
+td a {
+    color: rgb(30,108,147);
+}
