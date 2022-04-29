@@ -1,0 +1,13 @@
+#title {
+    background-size: 80% 100%;
+    background-image: url('../images/future_city.jpg');
+}
+
+p {
+    text-align: center;
+    padding-top: 1%;
+}
+
+.button {
+    opacity: 0;
+}

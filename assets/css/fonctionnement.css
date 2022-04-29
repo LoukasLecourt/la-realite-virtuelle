@@ -1,11 +1,18 @@
+#title {
+    background-size: 80% 100%;
+    background-image: url('../images/casque_vrbox.jpg');
+}
+
 h3 {
     padding-top: 2%;
+    margin-bottom: 2%;
 }
 
 .introduction {
     padding: 4%;
     padding-top: 2%;
     padding-right: 8%;
+    padding-bottom: 2%
 }
 
 .introduction .types {
@@ -23,4 +30,74 @@ h4 {
     margin-bottom: 1%;
     color: rgb(30,108,147);
     text-align: center;
+}
+
+.casque {
+    margin: 3%;
+}
+
+.casque p {
+    float: left;
+}
+
+.casque img {
+    padding-left: 10%;
+    height: 30%;
+    width: 30%;
+}
+
+.introduction p {
+    padding-bottom: 2%;
+}
+
+.margin {
+    margin-bottom: 2%;
+}
+
+.list {
+    margin-top: 3%;
+}
+
+li {
+    list-style: square;
+}
+
+.div_image, .div_image1, .div_image2 {
+    width: 30%;
+}
+
+.div_image1 {
+    float: left;
+}
+
+.div_image2 {
+    float: right;
+}
+
+.div_image {
+    padding-top: 325px;
+    margin-left: 35%;
+    padding-bottom: 3%;
+}
+
+.div_image p, .div_image1 p, .div_image2  p {
+    text-align: center;
+}
+
+.graph {
+    padding-left: 30%;
+    width: 400px;
+    height: 300px;
+    margin-bottom: 2%;
+}
+
+.introduction3 {
+    padding: 4%;
+    padding-top: 2%;
+    padding-right: 8%;
+    padding-bottom: 2%
+}
+
+.introduction3 p, .introduction3 li {
+    padding-bottom: 2%
 }

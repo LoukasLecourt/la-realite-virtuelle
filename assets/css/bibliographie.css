@@ -1,11 +1,12 @@
 #title {
     background-image: url('../images/book.jpg');
+    background-size: 80% auto;
 }
 
 table {
     border-color: rgb(30,108,147);
     margin: auto;
-    margin-top: 5%;
+    margin-top: 15%;
 }
 
 th {
